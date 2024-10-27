@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ayush Manoj Singh
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning DSA in JAVA
+- 👀 I’m interested in App Development in Kotling and Backend Development using Spring Boot as well as Data Algos
 - 💞️ I’m looking to collaborate on App development. 
 - 📫 How to reach me 
 https://www.linkedin.com/in/ayush-singh-b504b226b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
