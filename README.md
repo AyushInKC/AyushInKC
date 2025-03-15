@@ -1,9 +1,29 @@
-- 👋 Hi, I’m Ayush Manoj Singh
-- 👀 I’m interested in App Development in Kotlin and Backend Development using Spring Boot as well as Data Algos
-- 💞️ I’m looking to collaborate on App development. 
-- 📫 How to reach me 
-https://www.linkedin.com/in/ayush-singh-b504b226b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-<!---
-AyushInKC/AyushInKC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Ayush Manoj Singh!  
+
+## 🚀 About Me  
+- 🎓 Sophomore at **Ajay Kumar Garg Engineering College** (CSE-DS)  
+- 💻 Backend Developer | Spring Boot Enthusiast  
+- 🌐 Passionate about **Cloud Computing, Full-Stack Development, and Blockchain**  
+- 📚 Learning **React.js, Spring Security, and API Integrations**  
+- 🛠️ Exploring **Machine Learning & Microservices Architecture**
+- 🏢 **Intern at Itax Easy Pvt Ltd** – Working on backend development  
+
+## 🏆 My Projects  
+- **Quiz Platform** – Role-based authentication with JWT, MongoDB  
+- **AlgoTrack** – Data-driven insights & performance analysis  
+- **Imago** – Image transformations, secure file handling  
+
+## 📫 Connect With Me  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/ayush-singh-b504b226b/)  
+- 📧 Email: sirfayush1008@gmail.com  
+- +91-7307998313
+## 🛠️ Tech Stack  
+![Java]
+![Spring Boot] 
+![MongoDB]  
+![React]
+![Redis] 
+![Docker] 
+
+
+⚡ *"Striving to build scalable and secure applications!"*  
