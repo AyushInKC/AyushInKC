@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Ayush Manoj Singh**
 
-🎓 **Sophomore | Ajay Kumar Garg Engineering College (CSE-DS)**  
+🎓 **3rd-Year | Ajay Kumar Garg Engineering College (CSE-DS)**  
 💻 **Backend Developer | Spring Boot & Cloud Enthusiast**  
 🌩️ **Building scalable backends & automating deployments**
 
